@@ -74,7 +74,13 @@ This is the saved report:
 
 ![Alert completion](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/6545a8c2-6f8e-40d1-a81a-e20397fbc503)
 
-### 
+## Findings
+
+There are 98 critical vulnerabilities from the customer database server.
+
+## Task 3
+
+A server has been experiencing a brute force attacks into the administrator account. 
 
 ![Results for brute attack](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/dcbd7cb1-2005-4892-a21a-0f8e4f5df7d6)
 
