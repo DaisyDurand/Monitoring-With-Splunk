@@ -82,7 +82,11 @@ There are 98 critical vulnerabilities from the customer database server.
 
 A server has been experiencing a brute force attacks into the administrator account. 
 
+### Comand to filter the information:
+
 ![Results for brute attack](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/dcbd7cb1-2005-4892-a21a-0f8e4f5df7d6)
+
+### Creating the alert:
 
 ![Alert for thresh config](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/c6419bc8-1d39-4b08-947b-f47c7614c0e1)
 
