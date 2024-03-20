@@ -12,4 +12,6 @@ First we need to create a field to calculate the ratio of the upload speed to th
 
 These are the results:
 
+![ratio_results 2](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/19d283d6-d942-4b6b-97af-b41de380b46c)
 
+Next to create a table: 
