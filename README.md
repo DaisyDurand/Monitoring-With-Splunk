@@ -96,8 +96,10 @@ A server has been experiencing a brute force attacks into the administrator acco
 
 ![Alert for thresh config 3](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/26157bff-763d-4d8c-aaed-971ee9edbbfa)
 
-
 ![Alert saved for brute](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/06426d7a-df8b-41d9-945c-6486211686c0)
 
 ![Brute force alert completion](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/4a7cd3d4-71a4-4d81-9fc4-5f2d189faf41)
  
+## Findings
+
+The brute forced attack occurred on February 21st 2020 at 4 AM. The baseline for normal activity is 200 and the threshold is 230.
