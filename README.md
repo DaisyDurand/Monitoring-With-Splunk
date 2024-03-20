@@ -48,4 +48,23 @@ The systems were completely down at 2:30 PM on February 23rd. After 2:30 the sys
 
  ### To create a report that shows the the count of critical vulnerabilites from the customer database server:
 
+![Nessus scan command results ](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/715dc8ac-b977-4be5-bfdc-c97a8d425f81)
+![Nessus Report](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/b784abd3-7ff8-447d-8b38-a1d1b7e32b78)
+![nessus alert command](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/c4b7bd86-4e9c-49e2-9525-128b019d389d)
+![Alert config 1](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/fe6b94c6-1bac-4b07-9746-3684e801655a)
+![Alert config 2](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/bb518ca2-9fee-4cb0-86b6-173b0de33f1d)
+![Alert config 3](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/e3eeebae-8743-443d-8ea5-6e2eba8c124f)
+![Alert config 4](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/510dbd97-93a1-4522-a616-82dd087642e0)
+![Alert config 5](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/21160a0e-db92-4269-977c-d3b1334d8c50)
+![Alert config 6](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/6c91be87-f192-47c6-abd3-5329bb686320)
+![Alert has been saved](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/300cb629-49aa-472d-a29f-480d427a7b15)
+![Alert completion](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/6545a8c2-6f8e-40d1-a81a-e20397fbc503)
+![Results for brute attack](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/dcbd7cb1-2005-4892-a21a-0f8e4f5df7d6)
+![Alert for thresh config](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/c6419bc8-1d39-4b08-947b-f47c7614c0e1)
+![Alert for thresh config 1](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/146e391b-0298-40d3-a22c-8e45410d7310)
+![Alert for thresh config 2](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/a28ca17b-b0ab-42ed-9730-e65cd4800128)
+![Alert for thresh config 3](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/26157bff-763d-4d8c-aaed-971ee9edbbfa)
+![alert commands while alert creation](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/4bc127f1-5a50-46f1-ac2b-aa0d579121a7)
+![Alert saved for brute](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/06426d7a-df8b-41d9-945c-6486211686c0)
+![Brute force alert completion](https://github.com/DaisyDurand/Monitoring-With-Splunk/assets/147094227/4a7cd3d4-71a4-4d81-9fc4-5f2d189faf41)
  
