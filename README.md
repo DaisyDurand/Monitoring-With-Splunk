@@ -1,12 +1,11 @@
 # Monitoring-With-Splunk
 ## Description
-This project, powered by Splunk, strengthens security at "Company A" by analyzing data for threats. Custom reports empower stakeholders to enhance defenses, while automated alerts enable swift response to suspicious activities, ensuring data protection.
+This project, powered by Splunk, strengthens security at Company A by analyzing data for threats. Custom reports empower stakeholders to enhance defenses, while automated alerts enable swift response to suspicious activities, ensuring data protection.
 ## Environment Used
 * Splunk
-## Creating a Report To Determine Impact
-"Company A" provided us with a file which containted the system speeds around the time of the attack. Our task required the creation of a report to determine the impact of the DDOS attack on upload and download speed.
 
 ## Task 1
+Uploaded a file which containted the system speeds around the time of the attack. Our task required the creation of a report to determine the impact of the DDOS attack on upload and download speed.
 
 ### First we need to create a field to calculate the ratio of the upload speed to the download speed. To do this we use this command:
 
@@ -43,6 +42,10 @@ This project, powered by Splunk, strengthens security at "Company A" by analyzin
 Based on the reports the approximate date and time of the attck is February 22nd at 11:30 PM.
 The systems were completely down at 2:30 PM on February 23rd. After 2:30 the systems started to come back up. A full recovery was made at 11:30 on the 23rd. It took approximately 9 hours for the systems to recover.
 
-##Task 2
+## Task 2
 
-"Company A"
+ Using Nessus vulnerability scanners, we pulled the last 24 hours of scans to search for critical vulnerabilites. This task involved creating a report determining how man crtical vulnerabilites exist on the customer data server. After, we created an alert fo notify the team if critical vulnerabilites reappears on this server.
+
+ ### To create a report that shows the the count of critical vulnerabilites from the customer database server:
+
+ 
